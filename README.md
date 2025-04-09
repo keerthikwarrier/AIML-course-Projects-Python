@@ -1,4 +1,3 @@
 # AIML-course-Projects-Python-
-All the projects developed during this course is saved in this repository
+All Python, Data Science, Machine Learning projects done during this course and the projects i did due to my own interest, all are added to this repository.
 
-1. Personal Expense Tracker - 
